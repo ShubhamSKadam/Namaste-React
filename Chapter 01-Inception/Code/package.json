@@ -1,0 +1,22 @@
+{
+  "name": "code",
+  "version": "1.0.0",
+  "description": "React Course",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShubhamSKadam/Namaste-React.git"
+  },
+  "author": "Shubham Kadam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShubhamSKadam/Namaste-React/issues"
+  },
+  "homepage": "https://github.com/ShubhamSKadam/Namaste-React#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
